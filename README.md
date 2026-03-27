@@ -1,5 +1,94 @@
 # Leet-Code-By-Anshu
 <!---LeetCode Topics Start-->
+
+# 🚀 LeetCode Solutions by Anshu
+
+Welcome to my LeetCode journey! 👨‍💻
+This repository contains my solutions to various LeetCode problems, written primarily in **C++**.
+
+---
+
+## 📌 About
+
+I am consistently solving problems on LeetCode to:
+
+* Strengthen **Data Structures & Algorithms**
+* Improve **problem-solving skills**
+* Prepare for **technical interviews**
+* Build a strong **coding portfolio**
+
+---
+
+## 🛠️ Tech Stack
+
+* Language: **C++**
+* Platform: **LeetCode**
+* Concepts Covered:
+
+  * Arrays
+  * Linked Lists
+  * Hash Maps
+  * Stacks & Queues
+  * Trees & Graphs
+  * Dynamic Programming
+  * Recursion & Backtracking
+
+---
+
+Each problem includes:
+
+* ✅ Problem Statement
+* ✅ Approach / Explanation
+* ✅ Optimized Code
+* ✅ Time & Space Complexity
+
+---
+
+## 📈 Progress Tracker
+
+| Difficulty | Problems Solved |
+| ---------- | --------------- |
+| 🟢 Easy    | 5               |
+| 🟡 Medium  | 1               |
+| 🔴 Hard    | 0               |
+
+*(Will be updated regularly)*
+
+---
+
+## 💡 Example Problems
+
+* Two Sum
+* Add Two Numbers
+* Merge Two Sorted Lists
+
+---
+
+## 🎯 Goals
+
+* Solve **300+ problems**
+* Master **core DSA patterns**
+* Crack **top tech interviews**
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 LinkedIn: *(Add your link here)*
+* 💻 GitHub: *(Add your profile link here)*
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a ⭐!
+
+---
+
+### 🚀 "Consistency beats intensity."
+
+---
+
 # LeetCode Topics
 ## Array
 |  |
