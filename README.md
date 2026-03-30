@@ -48,7 +48,7 @@ Each problem includes:
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 5               |
+| 🟢 Easy    | 9               |
 | 🟡 Medium  | 1               |
 | 🔴 Hard    | 0               |
 
