@@ -8,9 +8,8 @@ public:
             string word = strs[i];
             
             string sortedWord = word;
-            sort(sortedWord.begin(), sortedWord.end()); // sort kar diya
-
-            mp[sortedWord].push_back(word); // group me daal diya
+            sort(sortedWord.begin(), sortedWord.end()); 
+            mp[sortedWord].push_back(word); 
         }
 
         vector<vector<string>> result;
