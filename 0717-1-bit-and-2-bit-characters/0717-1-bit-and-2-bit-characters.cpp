@@ -4,13 +4,16 @@ public:
         int i = 0;
         int n = bits.size();
 
-        while (i < n - 1) {
-            if (bits[i] == 1)
-                i += 2;
-            else
-                i += 1;
-        }
+        while (i<n-1){
+            if(bits[i]==1){
+                i+=2;
 
-        return i == n - 1;
+            }
+            else{
+                i+=1;
+            }
+        }
+        return  i == n -1;
+
     }
 };
