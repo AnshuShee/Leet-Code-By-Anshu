@@ -1,19 +1,21 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_set<char> st;
-        int left = 0, maxLen = 0;
-
-        for (int right = 0; right < s.size(); right++) {
-            while (st.count(s[right])) {
-                st.erase(s[left]);
-                left++;
+        int n = s.size();
+        int l = 0, r = 0;
+        int maxLen = 0;
+        int freq[256] = {0};
+        while (r < n) {
+            while (freq[s[r]] > 0) {
+                freq[s[l]]--;
+                l++;
             }
-
-            st.insert(s[right]);
-            maxLen = max(maxLen, right - left + 1);
+            if (freq[s[r]] == 0) {
+                freq[s[r]]++;
+            }
+            maxLen = max(maxLen, r - l + 1);
+            r++;
         }
-
         return maxLen;
     }
 };
