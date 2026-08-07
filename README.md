@@ -168,4 +168,16 @@ Commit to Repository
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0181-employees-earning-more-than-their-managers) |
+## Array
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0506-relative-ranks) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
