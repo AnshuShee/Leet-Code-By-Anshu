@@ -171,6 +171,7 @@ Commit to Repository
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0119-pascals-triangle-ii) |
 | [0506-relative-ranks](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0506-relative-ranks) |
 ## Sorting
 |  |
@@ -192,4 +193,8 @@ Commit to Repository
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0383-ransom-note) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
