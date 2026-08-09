@@ -180,4 +180,16 @@ Commit to Repository
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0506-relative-ranks) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
