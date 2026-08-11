@@ -171,6 +171,7 @@ Commit to Repository
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0119-pascals-triangle-ii) |
 | [0506-relative-ranks](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0506-relative-ranks) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -225,4 +226,8 @@ Commit to Repository
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
