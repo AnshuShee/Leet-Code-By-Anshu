@@ -18,8 +18,8 @@ public:
                 l2 = l2->next;
             }
 
-            carry = sum / 10;                 // carry for next digit
-            current->next = new ListNode(sum % 10); // current digit
+            carry = sum / 10;                 
+            current->next = new ListNode(sum % 10); 
             current = current->next;
         }
 
