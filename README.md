@@ -208,6 +208,7 @@ Commit to Repository
 | [0002-add-two-numbers](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0092-reverse-linked-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -217,11 +218,13 @@ Commit to Repository
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -230,4 +233,8 @@ Commit to Repository
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
