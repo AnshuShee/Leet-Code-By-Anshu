@@ -174,6 +174,7 @@ Commit to Repository
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0119-pascals-triangle-ii) |
 | [0506-relative-ranks](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0506-relative-ranks) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/1019-next-greater-node-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -208,6 +209,7 @@ Commit to Repository
 | [0002-add-two-numbers](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0092-reverse-linked-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -218,6 +220,7 @@ Commit to Repository
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -236,5 +239,6 @@ Commit to Repository
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
