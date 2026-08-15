@@ -207,6 +207,7 @@ Commit to Repository
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0092-reverse-linked-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/1019-next-greater-node-in-linked-list) |
@@ -215,6 +216,7 @@ Commit to Repository
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
