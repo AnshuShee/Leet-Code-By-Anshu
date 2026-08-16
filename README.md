@@ -168,6 +168,7 @@ Commit to Repository
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0184-department-highest-salary](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0184-department-highest-salary) |
 ## Array
 |  |
 | ------- |
