@@ -195,6 +195,7 @@ Commit to Repository
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0008-string-to-integer-atoi) |
 | [0290-word-pattern](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0383-ransom-note) |
 ## Counting
