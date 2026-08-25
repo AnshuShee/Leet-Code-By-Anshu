@@ -178,6 +178,7 @@ Commit to Repository
 | [0036-valid-sudoku](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0048-rotate-image) |
 | [0119-pascals-triangle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0119-pascals-triangle-ii) |
+| [0498-diagonal-traverse](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0506-relative-ranks) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/1019-next-greater-node-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -273,8 +274,13 @@ Commit to Repository
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0048-rotate-image) |
+| [0498-diagonal-traverse](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0498-diagonal-traverse) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0142-linked-list-cycle-ii) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
