@@ -14,7 +14,7 @@ public:
             ans.push_back(mat[i][j]);
 
             if (direction == 1) {
-                // Moving UP-RIGHT
+                
                 if (j == n - 1) {
                     i++;
                     direction = -1;
@@ -29,7 +29,7 @@ public:
                 }
             }
             else {
-                // Moving DOWN-LEFT
+          
                 if (i == m - 1) {
                     j++;
                     direction = 1;
