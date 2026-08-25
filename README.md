@@ -176,6 +176,7 @@ Commit to Repository
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0048-rotate-image) |
 | [0119-pascals-triangle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0119-pascals-triangle-ii) |
 | [0506-relative-ranks](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0506-relative-ranks) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/1019-next-greater-node-in-linked-list) |
@@ -248,6 +249,7 @@ Commit to Repository
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0048-rotate-image) |
 | [0382-linked-list-random-node](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0382-linked-list-random-node) |
 ## Binary Search
 |  |
@@ -270,6 +272,7 @@ Commit to Repository
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0048-rotate-image) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
