@@ -177,6 +177,7 @@ Commit to Repository
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0054-spiral-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0119-pascals-triangle-ii) |
 | [0498-diagonal-traverse](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0506-relative-ranks) |
@@ -274,6 +275,7 @@ Commit to Repository
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0498-diagonal-traverse) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -282,5 +284,6 @@ Commit to Repository
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
