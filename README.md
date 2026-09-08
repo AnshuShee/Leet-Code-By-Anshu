@@ -224,6 +224,7 @@ Commit to Repository
 | [0092-reverse-linked-list-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0328-odd-even-linked-list) |
@@ -250,6 +251,7 @@ Commit to Repository
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
