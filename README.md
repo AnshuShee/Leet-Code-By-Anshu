@@ -182,6 +182,7 @@ Commit to Repository
 | [0054-spiral-matrix](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0054-spiral-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0506-relative-ranks) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/1019-next-greater-node-in-linked-list) |
@@ -190,6 +191,7 @@ Commit to Repository
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0147-insertion-sort-list) |
+| [0268-missing-number](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
@@ -201,6 +203,7 @@ Commit to Repository
 | [0001-two-sum](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0383-ransom-note) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -266,11 +269,13 @@ Commit to Repository
 | [0002-add-two-numbers](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0382-linked-list-random-node) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -304,4 +309,8 @@ Commit to Repository
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
