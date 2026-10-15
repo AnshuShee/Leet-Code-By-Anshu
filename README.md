@@ -180,6 +180,7 @@ Commit to Repository
 | [0048-rotate-image](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0268-missing-number) |
@@ -268,6 +269,7 @@ Commit to Repository
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0382-linked-list-random-node) |
