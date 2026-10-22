@@ -175,6 +175,7 @@ Commit to Repository
 | ------- |
 | [0001-two-sum](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0048-rotate-image) |
@@ -246,6 +247,7 @@ Commit to Repository
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/AnshuShee/Leet-Code-By-Anshu/tree/master/0189-rotate-array) |
